@@ -8,7 +8,7 @@ https://github.com/josecarlos0112/Castigo1.git
  
 1.	(5 minutos) Escribir un programa que defina variables que representen el número de días de un año, el número de horas que tiene un día, el número de minutos que tiene una hora y el número de segundos que tiene un minuto. Emplear las variables que ocupen el mínimo espacio de memoria posible. A continuación, calcular el número de segundos que tiene un año y almacenar el valor del cálculo en otra variable. Realizar preferiblemente mediante una función que reciba como parámetros el número de años, meses y días y devuelva el número de segundos de los días, meses y años introducidos.
  
-1.2	(5 minutos) Escribir un programa que muestre por consola los mayores números enteros que se pueden representar mediante un char, short e int.
+1.2.	(5 minutos) Escribir un programa que muestre por consola los mayores números enteros que se pueden representar mediante un char, short e int.
  
 1.3	(15 minutos) Calcular la suma de todos los múltiplos de 5 comprendidos entre 1 y 100. Calcular además cuantos hay (ver operaciones sobre arrays) y visualizar cada uno de ellos. Utilizar una función que reciba el número de múltiplos de 5 y devuelva un array conteniedo todos los múltiplos de 5 desde el valor del parámetro begin hasta el valor del parámetro end. Realizar otra función que dado un array como parámetro, lo recorra de inicio a fin y devuelva la suma de todos sus valores.
  
